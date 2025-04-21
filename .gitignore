@@ -1,0 +1,7 @@
+# Ignore build/output files and user data
+*.exe
+*.cer
+*.zip
+*.lnk
+TabletDeskConfig.json
+TabletDeskLog.txt
