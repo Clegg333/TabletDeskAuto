@@ -2,7 +2,7 @@
 
 > **Notice:** This program was created with the assistance of ChatGPT-4 and Windscribe. All credit goes to these tools. The program is not malicious, but it is untested on machines other than my own. **Use at your own risk.**
 
-TabletDesk is a Windows utility designed to seamlessly launch Deskthing web apps in Microsoft Edge Kiosk Mode on an Android tablet used as an additional display via SpaceDesk. The app is ideal for turning an old Android tablet into a dedicated dashboard, such as a weather station or smart home control panel, which automatically appears on boot.
+TabletDesk is a Windows utility designed to seamlessly launch Deskthing Web apps in Microsoft Edge Kiosk Mode on an Android tablet (used as an additional display via SpaceDesk). The app is ideal for turning an old Android tablet into a dedicated Deskthing, automatically appearing after Windows log-on.
 
 ## Purpose
 - **Automatic Deskthing App Launch:** On system startup, TabletDesk waits for a SpaceDesk-connected Android tablet to be available as a secondary display, then launches your chosen Deskthing web app (such as WeatherWaves) in Edge's full-screen kiosk mode on that display.
@@ -19,7 +19,7 @@ TabletDesk is a Windows utility designed to seamlessly launch Deskthing web apps
 - **No Personal Data:** All user paths and settings are generic and privacy-safe.
 
 ## Typical Use Case
-- Repurpose an Android tablet as a dedicated weather dashboard, smart home control, or any Deskthing web app.
+- Repurpose an Android tablet as a dedicated Deskthing.
 - On PC boot, the dashboard appears automatically on the tablet (connected via SpaceDesk as a second monitor).
 
 ## Installation Guide
@@ -29,7 +29,7 @@ TabletDesk is a Windows utility designed to seamlessly launch Deskthing web apps
 - **Microsoft Edge** browser installed
 - **SpaceDesk** server installed on your PC
 - **SpaceDesk** app installed on your Android tablet
-- **DeskThing** web app (your target dashboard)
+- **DeskThing** (Target dashboard)
 - **AutoHotkey v2** installed (for hotkey and automation support)
 
 ### Steps
